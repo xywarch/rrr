@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/aagBEyp8", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/4s9m76CC", true))()
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
